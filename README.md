@@ -1,4 +1,4 @@
-# GraphQL Simple App - Karim E. Gaber
+# Online Store GraphQL App - Karim E. Gaber
 
 # Used in this project:
 - GraphQL (Remote Data Source).
