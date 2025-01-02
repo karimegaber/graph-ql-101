@@ -1,4 +1,3 @@
-## لا تنسوا والدي من دعائكم ##
 # GraphQL Simple App - Karim E. Gaber
 # LinkedIn: https://www.linkedin.com/in/karimessamgaber
 
